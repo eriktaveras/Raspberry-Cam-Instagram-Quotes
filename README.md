@@ -29,7 +29,7 @@ This project automates the process of capturing images from a Raspberry Pi camer
 To run the script, simply execute:
 
 ```bash
-python nature_post_bot.py
+python app.py
 ```
 
 This will capture an image, select a random nature quote, and post it on both Twitter and Instagram.
