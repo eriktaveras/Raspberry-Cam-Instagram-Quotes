@@ -1,5 +1,10 @@
 
-# 🌿 Social Media Bot for Nature Quotes
+# 🌿 Raspberry Cam / Instagram / Twitter (X) Quotes
+
+![Project Status](https://img.shields.io/badge/status-active-green.svg)
+![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 This project automates the process of capturing images from a Raspberry Pi camera and posting them on Twitter and Instagram with nature-inspired quotes. It's designed to run on a Raspberry Pi, utilizing the PiCamera for capturing images, Twython for Twitter interactions, and Instabot for Instagram posts.
 
